@@ -1,0 +1,13 @@
+C:\Users\sebas\onedrive\documentos\visual studio 2010\Projects\LPOO01_TPLIBRE\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\sebas\onedrive\documentos\visual studio 2010\Projects\LPOO01_TPLIBRE\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\sebas\onedrive\documentos\visual studio 2010\Projects\LPOO01_TPLIBRE\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\sebas\onedrive\documentos\visual studio 2010\Projects\LPOO01_TPLIBRE\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\sebas\onedrive\documentos\visual studio 2010\Projects\LPOO01_TPLIBRE\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\sebas\onedrive\documentos\visual studio 2010\Projects\LPOO01_TPLIBRE\Vistas\obj\x86\Debug\Vistas.FrmLogin.resources
+C:\Users\sebas\onedrive\documentos\visual studio 2010\Projects\LPOO01_TPLIBRE\Vistas\obj\x86\Debug\Vistas.FrmAdministrador.resources
+C:\Users\sebas\onedrive\documentos\visual studio 2010\Projects\LPOO01_TPLIBRE\Vistas\obj\x86\Debug\Vistas.FrmABMUsuario.resources
+C:\Users\sebas\onedrive\documentos\visual studio 2010\Projects\LPOO01_TPLIBRE\Vistas\obj\x86\Debug\Vistas.FrmUsuario.resources
+C:\Users\sebas\onedrive\documentos\visual studio 2010\Projects\LPOO01_TPLIBRE\Vistas\bin\Debug\Indumentaria-Ventas.exe
+C:\Users\sebas\onedrive\documentos\visual studio 2010\Projects\LPOO01_TPLIBRE\Vistas\bin\Debug\Indumentaria-Ventas.pdb
+C:\Users\sebas\onedrive\documentos\visual studio 2010\Projects\LPOO01_TPLIBRE\Vistas\obj\x86\Debug\Indumentaria-Ventas.exe
+C:\Users\sebas\onedrive\documentos\visual studio 2010\Projects\LPOO01_TPLIBRE\Vistas\obj\x86\Debug\Indumentaria-Ventas.pdb

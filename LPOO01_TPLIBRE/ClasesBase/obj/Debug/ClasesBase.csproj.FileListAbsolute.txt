@@ -1,0 +1,6 @@
+C:\Users\sebas\onedrive\documentos\visual studio 2010\Projects\LPOO01_TPLIBRE\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\sebas\onedrive\documentos\visual studio 2010\Projects\LPOO01_TPLIBRE\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\sebas\onedrive\documentos\visual studio 2010\Projects\LPOO01_TPLIBRE\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\sebas\onedrive\documentos\visual studio 2010\Projects\LPOO01_TPLIBRE\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\sebas\onedrive\documentos\visual studio 2010\Projects\LPOO01_TPLIBRE\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\sebas\onedrive\documentos\visual studio 2010\Projects\LPOO01_TPLIBRE\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
